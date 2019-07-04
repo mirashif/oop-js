@@ -1,2 +1,2 @@
 # just add dir/ or, file.txt to ignore
-es6-tooling/
+node_modules
